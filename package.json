@@ -1,5 +1,5 @@
 {
-  "name": "vite-electron-builder",
+  "name": "electron-vite-react-template",
   "private": true,
   "main": "packages/main/dist/index.cjs",
   "scripts": {
